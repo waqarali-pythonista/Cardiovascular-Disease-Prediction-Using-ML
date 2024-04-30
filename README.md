@@ -34,6 +34,12 @@ Project Demo
 
 
 
+https://github.com/waqarali-pythonista/Cardiovascular-Disease-Prediction-Using-ML/assets/130203895/0421fdf2-5ca1-40b9-a7b0-65a7ec0a6267
+
+
+
+
+
 
 
 
